@@ -1,6 +1,6 @@
 # C Dersleri
 
-C programlama dersinden kalan notlarım ve derste yazdığım örnek kodlar. Arkadaşlarım da faydalanabilsin diye topluca buraya koydum — çalışan, derlenebilir örnekler.
+OSTİM Teknik Üniversitesi (Programlama 1) C programlama dersinden kalan notlarım ve derste yazdığım örnek kodlar. Arkadaşlarım da faydalanabilsin diye topluca buraya koydum — çalışan, derlenebilir örnekler.
 
 ## İçerik
 
