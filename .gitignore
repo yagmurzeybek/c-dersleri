@@ -1,0 +1,10 @@
+# Derlenmis dosyalar (paylasmaya gerek yok, kaynak koddan tekrar uretilir)
+*.exe
+*.o
+*.obj
+*.out
+
+# Editor / sistem dosyalari
+.vscode/
+Thumbs.db
+desktop.ini

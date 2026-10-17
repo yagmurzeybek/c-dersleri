@@ -1,0 +1,41 @@
+#include <stdio.h>
+
+int main ()
+{
+
+int numberofproducts,day;
+char *dayname;
+
+numberofproducts=0;
+day=0;
+
+printf("Enter a number of day (1-7):");
+scanf("%d",&day);
+
+switch (day){
+        case 7:numberofproducts+=25;
+        if (day ==7) {dayname="Sunday";}
+        case 6:numberofproducts+=19;
+        if (day==6) {dayname="Saturday";}
+        case 5:numberofproducts+=15;
+        if (day==5) {dayname="Friday";}
+        case 4:numberofproducts+=10;
+        if (day==4) {dayname="Thursday";}
+        case 3:numberofproducts+=7;
+        if (day==3) {dayname="Wednesday";}
+        case 2:numberofproducts+=5;
+        if (day==2) {dayname="Tuesday";}
+        case 1:numberofproducts+=2;
+        if (day==1){dayname="Monday";}
+
+
+
+}
+printf("%s gunu sonunda toplam %d urun satisi yapildi\n\n",dayname,numberofproducts);
+
+
+
+
+
+return 0;
+}
