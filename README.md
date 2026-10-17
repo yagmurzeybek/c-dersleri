@@ -66,4 +66,4 @@ Windows'ta derleyici yoksa en kolayı [MinGW-w64](https://www.mingw-w64.org/) ve
 
 ## Not
 
-Bunlar ders sırasında tuttuğum kendi notlarım ve yazdığım örnekler; hata veya eksik olabilir. Bir yanlış görürsen issue açabilir ya da bana söyleyebilirsin.
+Bu notlar Fehmi UYAR Youtube Kanalının C dersleri Playlisti takip edilerek tutulmuştur.
